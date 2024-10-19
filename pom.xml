@@ -8,11 +8,11 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jusan</groupId>
-    <artifactId>administrator</artifactId>
+    <artifactId>test-deploy</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>administrator</name>
-    <description>administrator</description>
+    <name>test-deploy</name>
+    <description>test-deploy</description>
     <url/>
     <licenses>
         <license/>
